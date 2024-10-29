@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Razz Sharma
+- 👀 I’m interested in Programming as Python, Data Science and Developing in JAVA< PYTHON< PHP< LARAVEL< R< C++...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on with my friends circle.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Programming is the art of telling another human being what one wants the computer to do.
+- 
