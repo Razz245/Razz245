@@ -1,6 +1,6 @@
 # Hi I am Sharma
 ## A student of Programming
-(https://x.com/RashinRabindra/header_photo)
+https://x.com/RashinRabindra/header_photo
 
 I’m a passionate web developer specializing in the MERN stack, Python, PHP, and JavaScript. Coding isn’t just a profession for me; it’s a hobby and an endless pursuit of innovation. Beyond the world of programming, I indulge my creative side through investigative writing for newspapers, focusing on science and thought-provoking topics.
 
