@@ -1,10 +1,9 @@
 # Hi I am Sharma
 ## A student of Programming
-https://x.com/RashinRabindra/header_photo
 
-I’m a passionate web developer specializing in the MERN stack, Python, PHP, and JavaScript. Coding isn’t just a profession for me; it’s a hobby and an endless pursuit of innovation. Beyond the world of programming, I indulge my creative side through investigative writing for newspapers, focusing on science and thought-provoking topics.
+I’m a passionate web developer specializing in the MERN stack, Python, PHP, and JavaScript. Coding isn’t just a profession for me; it’s a hobby and an endless pursuit of innovation. Beyond the world of programming, I indulge my creative side through investigative writing for website, focusing on science and thought-provoking topics.
 
-With a deep interest in science and a rational mindset, I love exploring the "why" behind everything. A sapiosexual at heart, I value intelligence and meaningful conversations above all. I enjoy traveling to new places, embracing solitude, and expanding my perspective. Proudly an atheist, I find meaning in logic, reason, and curiosity.
+With a deep interest in science and a rational mindset, I love exploring the "why" behind everything. A sapiosexual at heart, I value intelligence and meaningful conversations above all. I enjoy traveling to new places, embracing solitude, and expanding my perspective. I find meaning in logic, reason, and curiosity.
 
 I’m unmarried, independent, and always open to connecting with like-minded individuals who share a passion for technology, science, and intellectual growth.
 
